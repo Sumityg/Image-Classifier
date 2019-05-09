@@ -15,4 +15,4 @@ There are three notebooks which have been used to perform the task of identifyin
 - 2)predict.py:This file contains the script which can be run from the shell to predict the class of the new flower 
 - 3)train.py:This file contains the script which can be used to train the image classifier on the available dataset.
 # Licensing,Authors and Acknowledgement
-Must give credit to Udacity for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+Must give credit to Udacity for the data. 
